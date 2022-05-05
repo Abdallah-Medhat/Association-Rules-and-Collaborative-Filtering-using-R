@@ -1,0 +1,1 @@
+I have three csv files which are transactions, Recommender_student and transposed_student. transactions csv files is used for Association Rules and Recommender_student and transposed_student are used for Collaborative Filtering.apriori_trans and apriori_trans1 csv files are result from Association Rules
